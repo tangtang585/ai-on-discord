@@ -27,3 +27,4 @@ update logs
 • add that can make ai ban kick people
 • add that ai can gave someone admin(beta)
 • add that ai can view you pictrue but video in delopment
+• add that you can put mp3 file and ai will understand it
