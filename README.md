@@ -19,3 +19,4 @@ i use old pc to host this ai
 
 btw here the link that install to you server
 https://discord.com/oauth2/authorize?client_id=1556140204878733312
+(wanna make me public the source code?)
